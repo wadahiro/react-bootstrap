@@ -20,6 +20,7 @@
   ],
   "author": "Stephen J. Collings <stevoland@gmail.com>",
   "license": "MIT",
+  "main" : "cjs/main.js",
   "peerDependencies": {
     "react": ">=0.12"
   },
